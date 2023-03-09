@@ -1,8 +1,5 @@
-.App{
-    display: flex;
-    justify-content: center;
-    margin: 0px auto;
-    flex-direction: column;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK&display=swap');
+
+body{
+    font-family: 'Noto Sans HK', sans-serif;
 }
